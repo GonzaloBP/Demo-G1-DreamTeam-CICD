@@ -1,4 +1,4 @@
-package com.example.DreamTeam.demo;
+/*package com.example.DreamTeam.demo;
 
 import org.junit.jupiter.api.Test;
 
@@ -11,7 +11,7 @@ import org.springframework.boot.web.server.LocalServerPort;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
-public class HttpRequestTest {
+ public class HttpRequestTest {
 
 	@LocalServerPort
 	private int port;
@@ -25,3 +25,4 @@ public class HttpRequestTest {
 				String.class)).contains("Hola, Mundo");
 	}
 }
+*/
